@@ -1,0 +1,5 @@
+Text File Formats: .txt, .doc, .docx, .html, .pdf
+Image File Formats: .jpg, .png, .gif, .svg, .eps
+Audio File Formats: .mp3, .wav, .ogg, .aac
+Document File Formats: .doc, .ppt, .xlsx, .pptx
+Video File Formats: .mp4, .avi, .mkv, .mov, .mpeg
